@@ -1,2 +1,3 @@
-# FIBA-MixMaster
-Surface Supplied Mixed Gas Planning System
+# FIBA MixMaster
+
+Browser-based mixed gas planning system.
